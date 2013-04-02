@@ -8,10 +8,13 @@
 1. You've clicked on me, youre almost halfway there
 2. Make an account if you haven't already
 3. Click on 'edit' and enter in what you want to request like so:
-Request by (Username) 1. blah
+      Request by (Username) 1. blah
 4. Make a pull request
 5. I'll make a decision from there
 ========================================================================
 
 Use this vv as an example:
 Request by (Yellowdie) 1. Implant money tree into ROM hyper drive so the flux capacitor can be used to print money from the phone.
+
+Request by (Yellowdie) 2. Add a Screen Timeout tile to the quick settings.  Old AOKP/CM used to have an option to change the screen off time from 30 seconds, 60, 120, etc.  That would be super helpful.  Most of the time I leave it on 30 seconds, but sometimes I want to quickly increase the time on so if I'm reading or something, it won't shut off and I can toggle it quickly.
+
